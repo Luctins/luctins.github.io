@@ -7,4 +7,4 @@
 :END:
 
 * Who Am I
-[./readme.org]
+[[./readme.org]]
