@@ -1,0 +1,3 @@
+[submodule "whoami-gh"]
+	path = whoami-gh
+	url = https://github.com/Luctins/luctins

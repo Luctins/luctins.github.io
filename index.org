@@ -9,4 +9,4 @@
 
 * Who Am I
 
-[[gh.luctins.me][GitHub page]]
+[[./whoami-gh/readme.org]]
