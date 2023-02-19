@@ -6,7 +6,7 @@
 #+STARTUP: overview
 :END:
 
-* [[./whoami-gh/readme.org][Who Am I]]
+* [[./readme.org][Who Am I]]
 
 * Projects
 ** [[https://github.com/Luctins/image-sorter][Small Image sorter]]
