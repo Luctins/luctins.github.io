@@ -8,3 +8,18 @@
 
 * Who Am I
 [[./readme.org]]
+
+* Projects
+** [[https://github.com/Luctins/image-sorter][Small Image sorter]]
+:PROPERTIES:
+:CREATED:  [2023-02-19 Sun 20:13]
+:CUSTOM_ID: project sorter
+:END:
+
+* Logbook
+** I did a thing: [[#project sorter][Image Sorter]]
+:PROPERTIES:
+:CREATED:  [2023-02-19 Sun 20:11]
+:END:
+
+Finally after this bothering me for some time I implemented something that fits neatly into what I want it to do.
