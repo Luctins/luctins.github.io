@@ -9,11 +9,21 @@
 * [[./readme.org][Who Am I]]
 
 * Projects
+Random Personal Projects
+
 ** [[https://github.com/Luctins/image-sorter][Small Image sorter]]
 :PROPERTIES:
 :CREATED:  [2023-02-19 Sun 20:13]
 :CUSTOM_ID: project sorter
 :END:
+
+** [[https://github.com/Luctins/wallpaper-organizer][Wallpaper Organizer]]
+:PROPERTIES:
+:CREATED:  [2023-02-19 Sun 20:13]
+:CUSTOM_ID: project sorter
+:END:
+
+A tool to organize wallpapers using folder defined categories
 
 * Logbook
 ** I did a thing: [[#project sorter][Image Sorter]]
