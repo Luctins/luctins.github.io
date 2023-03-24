@@ -17,6 +17,8 @@ Random Personal Projects
 :CUSTOM_ID: project sorter
 :END:
 
+A configurable tool to sort/separate image files based on categories
+
 ** [[https://github.com/Luctins/wallpaper-organizer][Wallpaper Organizer]]
 :PROPERTIES:
 :CREATED:  [2023-02-19 Sun 20:13]
@@ -24,11 +26,3 @@ Random Personal Projects
 :END:
 
 A tool to organize wallpapers using folder defined categories
-
-* Logbook
-** I did a thing: [[#project sorter][Image Sorter]]
-:PROPERTIES:
-:CREATED:  [2023-02-19 Sun 20:11]
-:END:
-
-Finally after this bothering me for some time I implemented something that fits neatly into what I want it to do.
