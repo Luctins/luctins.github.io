@@ -7,6 +7,9 @@
 #+STARTUP: overview
 :END:
 
+
+<<GlobalTOC()>>
+
 * [[./readme.org][Who Am I]]
 
 * Projects
